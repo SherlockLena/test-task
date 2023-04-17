@@ -1,0 +1,14 @@
+{
+    "numbers": {
+        "first": 10,
+        "second": 2020
+    },
+    "arr": [1, 2, 5, 5, 4, 6, 3],
+    "weight": 101,
+    "tshirts" : ["S", ["L", "M"], "M", ["M", "S"], "XL", ["XL", "XXL"], "L"],
+    "stage": {
+        "n": 7,
+        "m": 6,
+        "actorsPositions": [[3, 5], [5, 2], [6, 5]]
+    }
+}

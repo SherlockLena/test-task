@@ -1,0 +1,17 @@
+{
+  "canTransform": true,
+  "arr": [
+    5
+  ],
+  "nextMinimumWeight": 101.03999999999999,
+  "tshirts": [
+    "S",
+    "M",
+    "M",
+    "S",
+    "XL",
+    "XXL",
+    "L"
+  ],
+  "projectors": 28
+}
